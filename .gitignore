@@ -1,0 +1,23 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.VC.db
+*.opensdf
+
+# Third-party / licensed (not redistributable)
+Plugins/Wwise*/
+*_WwiseProject/
+Content/WwiseAudio/
+Content/Vefects/
