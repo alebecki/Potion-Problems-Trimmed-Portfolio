@@ -73,8 +73,8 @@ Content/PotionProblems/
 
 - **Engine:** Unreal Engine 5.4
 - **Plugins required:**
-  - [PaperZD](https://www.fab.com/) (marketplace)
-  - Async Loading Screen (marketplace)
+  - [PaperZD](https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0) (marketplace)
+  - [Async Loading Screen](https://www.fab.com/listings/f8aabb9a-7c96-4f79-97ff-04bcc146e595) (marketplace)
   - **Wwise 2024.1** (Audiokinetic). Install it through the Audiokinetic Launcher and integrate it into the project. The code depends on the `AkAudio` module.
 - Online play uses `OnlineSubsystemSteam` (EOS is enabled as well).
 
